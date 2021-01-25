@@ -568,4 +568,4 @@ async def botstop(ctx):
     await bot.logout()
     return
 
-bot.run('ODAyNTYwMTk0ODAyMjIxMDU3.YAxAbQ.QYB4Ux3B0rlCjx-W7Rmy4IExCf0')
+bot.run('token here')
